@@ -1,17 +1,24 @@
-# **Assignment Title**  
+# **Even Or Odd?**  
 
 ## **Assignment Description**  
-
+Create a function called isEven() that returns true/false if a given variable n is even or odd. The method should return true if n is even and false if n is odd.
 
 ## **Examples**  
->
+>isEven(16)  
+true
+
+>isEven(11)  
+false
 
 ## **Limitations**  
+1 if  
+1 else  
 
 ## **Hints**  
+Use the operator % to return the remainder of two numbers
 
 ## **Concepts**  
-
+Unit 1, if/else, mod
 ---
 
 ## **How to complete this assignment**
